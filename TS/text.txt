@@ -1,5 +1,6 @@
-Hello world my name is Tim and I am the best at making tutorials!
-This is another test block of text for this project!
+Virtual Reality (VR) is the use of computer technology to create a simulated environment.
+The IoT is a giant network that encompasses everything connected to the internet so they "talk" to each other.
+artificial intelligence (AI) means making machines capable of performing intelligent tasks like human beings
 Subscribe to Tech With Tim on YouTube.
 Okay this is just another test to make sure the app is working okay!
 The quick brown fox jumped over the rest of the sentence that I forget.
